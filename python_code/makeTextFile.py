@@ -6,6 +6,7 @@
 """
 
 import os
+import math
 ls = os.linesep
 
 #input the filename
